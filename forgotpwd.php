@@ -27,7 +27,7 @@
             margin-bottom: 20px;
         }
         .input-field {
-            width: 100%;
+            width: 93%;
             padding: 12px;
             margin: 10px 0;
             border: 1px solid #ddd;
