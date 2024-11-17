@@ -37,7 +37,7 @@ if (isset($_SESSION['username'])) {
         <!-- Collapsible Menu -->
         <div id="side-menu" class="side-menu">
             <a href="Latest Updates.php"><i class="fas fa-newspaper"></i> Latest Updates</a>
-            <a href="PaymentHistory.php"><i class="fas fa-calendar-alt"></i>PaymentHistory</a>
+            <a href="PaymentHistory.php"><i class="fas fa-calendar-alt"></i>Payment History</a>
             <a href="payments.php"><i class="fas fa-credit-card"></i> Bills Payments</a>
             <a href="calculator.php"><i class="fas fa-calculator"></i> Calculator</a>
             <a href="ContactUs.php"><i class="fas fa-phone-alt"></i> Contact Us</a>
